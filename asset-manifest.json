@@ -1,0 +1,19 @@
+{
+  "main.css": "/AHMoSe-app/static/css/main.9ac02f97.chunk.css",
+  "main.js": "/AHMoSe-app/static/js/main.40292522.chunk.js",
+  "main.js.map": "/AHMoSe-app/static/js/main.40292522.chunk.js.map",
+  "runtime~main.js": "/AHMoSe-app/static/js/runtime~main.b175d55d.js",
+  "runtime~main.js.map": "/AHMoSe-app/static/js/runtime~main.b175d55d.js.map",
+  "static/css/2.292ac00a.chunk.css": "/AHMoSe-app/static/css/2.292ac00a.chunk.css",
+  "static/js/2.6e9b1636.chunk.js": "/AHMoSe-app/static/js/2.6e9b1636.chunk.js",
+  "static/js/2.6e9b1636.chunk.js.map": "/AHMoSe-app/static/js/2.6e9b1636.chunk.js.map",
+  "index.html": "/AHMoSe-app/index.html",
+  "precache-manifest.c55e5bf4e2e908fc9a2488d39c929ff0.js": "/AHMoSe-app/precache-manifest.c55e5bf4e2e908fc9a2488d39c929ff0.js",
+  "service-worker.js": "/AHMoSe-app/service-worker.js",
+  "static/css/2.292ac00a.chunk.css.map": "/AHMoSe-app/static/css/2.292ac00a.chunk.css.map",
+  "static/css/main.9ac02f97.chunk.css.map": "/AHMoSe-app/static/css/main.9ac02f97.chunk.css.map",
+  "static/media/features_info.csv": "/AHMoSe-app/static/media/features_info.89b36add.csv",
+  "static/media/knowledge_intervals.csv": "/AHMoSe-app/static/media/knowledge_intervals.ceaf44b3.csv",
+  "static/media/models_data.csv": "/AHMoSe-app/static/media/models_data.5fecf2c8.csv",
+  "static/media/models_info.csv": "/AHMoSe-app/static/media/models_info.9658bd2b.csv"
+}
